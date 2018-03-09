@@ -1,0 +1,16 @@
+use git to edit the file
+
+git config --global user.name "luxuriance19"
+git config --global user.email "behappy13@126.com"
+
+注意上传的文件中需要有README，之前一直没有成功
+
+step:  
+1.在github上创建项目  
+2.git clone https://...    
+3.编辑项目  
+4 git init
+5.git add .  
+6.git commit -m "提交说明"
+7.git remote add origin https://...  
+8.git push origin master  
