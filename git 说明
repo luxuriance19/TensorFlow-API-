@@ -10,7 +10,7 @@ step:
 2.git clone https://...    
 3.编辑项目  
 4 git init
-5.git add .  
+5.git add ./  
 6.git commit -m "提交说明"
 7.git remote add origin https://...  
 8.git push origin master  
